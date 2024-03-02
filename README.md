@@ -22,11 +22,11 @@
 6. DC POWER SOURCE (15v) 
 7. RELAY BOARD OF 2 CHANNEL
 
-### Software simulation (![image](https://github.com/gokulkumar1014/IoT-Enabled-Smart-Home-Appliances/assets/161945757/fd30fdc2-5d49-4b3f-a4f0-9b28c2f708e2))
+### Software simulation [image](https://github.com/gokulkumar1014/IoT-Enabled-Smart-Home-Appliances/assets/161945757/fd30fdc2-5d49-4b3f-a4f0-9b28c2f708e2)
 
 ### Software simulation [video](https://www.tinkercad.com/things/7vnI6YrRXnL-iot-enabled-smart-home-appliances)
 
-### Hardware simulation (![image](https://github.com/gokulkumar1014/IoT-Enabled-Smart-Home-Appliances/assets/161945757/f67db0bc-e3d8-4269-ab29-4a06213d9387)
+### Hardware simulation [image](https://github.com/gokulkumar1014/IoT-Enabled-Smart-Home-Appliances/assets/161945757/f67db0bc-e3d8-4269-ab29-4a06213d9387)
 
 ### Hardware simulation [video](https://drive.google.com/drive/folders/1hYtEOlbSIN-kPfIEUUbqrQnMM91C2-rN)
 
